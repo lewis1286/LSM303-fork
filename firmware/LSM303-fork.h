@@ -24,12 +24,13 @@
  ***************************************************************************/
 #ifndef __LSM303_H__
 #define __LSM303_H__
-
+/*
 #if (ARDUINO >= 100)
  #include "Arduino.h"
 #else
  #include "WProgram.h"
 #endif
+*/
 #include "Wire.h"
 
 #define LSM303_ADDRESS_ACCEL          (0x32 >> 1)         // 0011001x
