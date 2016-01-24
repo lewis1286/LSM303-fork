@@ -1,6 +1,6 @@
 {
     "name": "LSM303-fork",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Lewis Guignard <lewisguignard@gmail.com>",
     "license": "MIT",
     "description": "A fork of the Adafruit LSM303 library to work with Particle Photon"
