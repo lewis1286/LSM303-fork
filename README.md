@@ -1,3 +1,4 @@
+## LSM303-fork
 
   This library has been modified from the below Adafruit library, which 
   is for using the LSM303 breakout board with an Arduino.  This library makes the 
